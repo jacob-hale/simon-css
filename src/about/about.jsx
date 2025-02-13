@@ -6,4 +6,4 @@ export function About() {
       <div>about displayed here</div>
     </main>
   );
-}
+} 
